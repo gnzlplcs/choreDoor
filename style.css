@@ -1,6 +1,7 @@
 body {
     background-color: #010165;
     margin: 0px;
+    text-align: center;
 }
 
 .header {
@@ -42,6 +43,7 @@ body {
 
 .door-row {
     text-align: center;
+    display: inline-flex;
 }
 
 .door-frame {
